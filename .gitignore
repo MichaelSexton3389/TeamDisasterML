@@ -1,0 +1,9 @@
+# Exclude macOS system file
+.DS_Store
+
+# Exclude Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+#exclude vscode settings 
+.vscode 
+
